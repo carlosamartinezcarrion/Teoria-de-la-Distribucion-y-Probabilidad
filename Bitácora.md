@@ -1,4 +1,4 @@
-# Bitácora de Autoevaluación – Unidad 2: Inferencia Estadística
+# Bitácora de Autoevaluación – Unidad 2
 
 ## Aprendizaje alcanzado
 
