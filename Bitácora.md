@@ -26,6 +26,6 @@ Otra dificultad consistió en organizar el análisis utilizando las librerías d
 
 Considero que durante esta unidad logré mejorar mi capacidad para aplicar técnicas de inferencia estadística utilizando Python y para interpretar adecuadamente los resultados obtenidos mediante pruebas de hipótesis, análisis de varianza y pruebas Post-Hoc.
 
-Además, comprendí que las librerías estadísticas no funcionan como una "caja negra", sino que implementan procedimientos matemáticos que deben ser entendidos e interpretados correctamente para tomar decisiones fundamentadas a partir de los datos.
+Además, comprendí que las librerías estadísticas implementan procedimientos matemáticos que deben ser entendidos e interpretados correctamente para tomar decisiones fundamentadas a partir de los datos.
 
 En general, considero que alcancé los objetivos propuestos para la Unidad 2 y fortalecí competencias que serán de utilidad en futuros proyectos relacionados con el análisis de datos y la estadística aplicada.
